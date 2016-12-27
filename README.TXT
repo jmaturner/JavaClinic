@@ -1,6 +1,5 @@
 PROJECT TITLE: Java Clinic
-PURPOSE OF PROJECT: Intro Java project
+PURPOSE OF PROJECT: Tool to import bulky excel sheet clinical data (CBC) into simple database
 VERSION or DATE: 6-2015
-HOW TO START THIS PROJECT:
 AUTHORS: John Turner
-USER INSTRUCTIONS:
+
